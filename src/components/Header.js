@@ -1,5 +1,5 @@
 import React from 'react';
 
 export const Header = () => {
-    return <div>Pretty header</div>;
+    return <div>Pretty header (fixed)</div>;
 }
