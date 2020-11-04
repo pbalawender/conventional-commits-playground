@@ -31,7 +31,7 @@
   "scripts": {
     "build": "webpack",
     "start": "webpack serve",
-    "release": "standard-version",
+    "release": "standard-version --no-verify",
     "commit": "cz"
   },
   "config": {
