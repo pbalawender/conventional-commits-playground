@@ -2,7 +2,7 @@ import React from 'react';
 import {Header} from "./Header";
 import {Footer} from "./Footer";
 
-export const Main = () => {
+export const Content = () => {
     return (
         <main>
             <Header />
