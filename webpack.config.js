@@ -29,7 +29,7 @@ module.exports = {
     minimizer: [new TerserPlugin()]
   },
   devServer: {
-    contentBase: './dist',
+    contentBase: path.resolve(__dirname, 'dist'),
   },
   plugins: [
     new webpack.ProgressPlugin(),
