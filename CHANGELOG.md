@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/pbalawender/conventional-commits-playground/compare/v1.1.3...v1.2.0) (2020-11-04)
+
+
+### Features
+
+* footer component ([5c7a8f0](https://github.com/pbalawender/conventional-commits-playground/commit/5c7a8f04973c9ca0e285f0a7fe21138166986854))
+
+
+### Bug Fixes
+
+* fixed header component ([0e4b865](https://github.com/pbalawender/conventional-commits-playground/commit/0e4b86538a2525c6980f9b35a864e9735adb1c9e))
+
 ### [1.1.3](https://github.com/pbalawender/conventional-commits-playground/compare/v1.1.0...v1.1.3) (2020-11-04)
 
 ### [1.1.2](https://github.com/pbalawender/conventional-commits-playground/compare/v1.1.0...v1.1.2) (2020-11-04)
