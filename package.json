@@ -18,7 +18,9 @@
     "babel-loader": "^8.1.0",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "css-loader": "^5.0.0",
+    "cz-conventional-changelog": "3.3.0",
     "html-webpack-plugin": "^4.5.0",
+    "husky": "^4.3.0",
     "standard-version": "^9.0.0",
     "style-loader": "^2.0.0",
     "terser-webpack-plugin": "^5.0.3",
@@ -29,6 +31,17 @@
   "scripts": {
     "build": "webpack",
     "start": "webpack serve",
-    "release": "standard-version"
+    "release": "standard-version",
+    "commit": "cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true"
+    }
   }
 }
