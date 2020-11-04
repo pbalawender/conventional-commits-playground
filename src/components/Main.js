@@ -3,9 +3,11 @@ import {Header} from "./Header";
 import {Footer} from "./Footer";
 
 export const Main = () => {
-    return <div>
-        <Header />
-        Hello World!
-        <Footer />
-    </div>
+    return (
+        <main>
+            <Header />
+            Hello World!
+            <Footer />
+        </main>
+    );
 };
