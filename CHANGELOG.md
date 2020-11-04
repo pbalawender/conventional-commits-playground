@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/pbalawender/conventional-commits-playground/compare/v1.2.0...v1.3.0) (2020-11-04)
+
+
+### Features
+
+* use proper html tags ([1c8a5a4](https://github.com/pbalawender/conventional-commits-playground/commit/1c8a5a495062d5e2062c4cca69a3949b798e7e5f))
+
 ## [1.2.0](https://github.com/pbalawender/conventional-commits-playground/compare/v1.1.3...v1.2.0) (2020-11-04)
 
 
