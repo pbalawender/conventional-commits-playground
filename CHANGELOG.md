@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.3](https://github.com/pbalawender/conventional-commits-playground/compare/v2.0.2...v2.0.3) (2020-11-05)
+
+
+### Bug Fixes
+
+* jira link test ([0971b2a](https://github.com/pbalawender/conventional-commits-playground/commit/0971b2a472e716b4602b27ec30cb352cd97c23f0)), closes [#JIRA-123](https://github.com/pbalawender/conventional-commits-playground/issues/JIRA-123)
+
 ### [2.0.2](https://github.com/pbalawender/conventional-commits-playground/compare/v2.0.1...v2.0.2) (2020-11-05)
 
 
