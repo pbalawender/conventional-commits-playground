@@ -12,4 +12,4 @@ or bundle it
 yarn build
 ```
 
-# Goodby
+# Goodbye
